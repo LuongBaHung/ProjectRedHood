@@ -1,2 +1,0 @@
-# ProjectRedHood
-This is ProjectRedHood
