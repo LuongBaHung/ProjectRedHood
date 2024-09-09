@@ -1,0 +1,46 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ItemDrop : MonoBehaviour
+{
+    public int itemDamage = 100;
+    public Vector2 knockBack = new Vector2(0, 0);
+
+    Rigidbody2D rb;
+    Animator animator;
+    // Start is called before the first frame update
+    private void Awake()
+    {
+        rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        Damageable damageable = collision.GetComponent<Damageable>();
+        SkullWolf skullWolf = collision.GetComponent<SkullWolf>();
+
+        if (collision.CompareTag("Player"))
+        {
+            damageable = null;
+        } 
+        else
+        {
+            if (damageable != null && collision.CompareTag("Enemy"))
+            {
+                skullWolf = null;
+                Vector2 deliveredKnockback = transform.localScale.x > 0 ? knockBack : new Vector2(-knockBack.x, knockBack.y);
+
+                bool gotHit = damageable.Hit(itemDamage, deliveredKnockback);
+
+                if (gotHit)
+                {
+                    Debug.Log(collision.name + " hit for " + itemDamage);
+
+                }
+            }
+        }
+        
+    }
+}

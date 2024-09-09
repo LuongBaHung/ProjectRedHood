@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 8d5580b89b920354694a151e0f36d883
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 61
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3320e73000d4544979e065cc360af2
+      internalID: -2108596556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 192
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4346451e8702c44a886ab09c003509
+      internalID: -717405610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 192
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35be9e8af0b4e2e46be6929dc70baa6a
+      internalID: 1667904618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 192
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bd1c8d35ca133439df07a4d7ffa57b
+      internalID: 587296154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 192
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019960c3a189a1b47afa83abc29041a0
+      internalID: 13171981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 192
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070ee505a326b1f4c8da6cb7ac407ce1
+      internalID: -1121377028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 57
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f640cb33f99f04f45a5acc66fcc52bd6
+      internalID: -792529830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 128
+        width: 58
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f9c2a49d4cf6340a0afd989a2903ae
+      internalID: -473357938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 62
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c36f1d7e89b1847b55cf3ac8d77c69
+      internalID: 763289626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 128
+        width: 55
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9638fb6264a7d1648b420783ef75ba89
+      internalID: 1177556861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 128
+        width: 55
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661b93730ccd36c42ac6c432db3ef1d8
+      internalID: -1752886119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 50
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0563a8a1dc799524c98e7a699ade513b
+      internalID: -925488696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 64
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72162a587709fa4d8f0e309d2bc56da
+      internalID: 1746211123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 64
+        width: 50
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9de402e31bed2747ad78a219f4db794
+      internalID: 2124544839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 60
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdd076a6da57a243a4b638c5bf63138
+      internalID: 102669182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 60
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44018c764cfc1c49bbbcb23f82dbd89
+      internalID: 1200972887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 60
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9231314dbe93064c9442631414e68b4
+      internalID: 1189430970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 62
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063fc1b6601181140a09396c08646cef
+      internalID: 2071668022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 62
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb08d7dd005fad46850b07cd27cc811
+      internalID: 1784700363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 58
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e36bdbd6479af647a8e21ad82fbb6c5
+      internalID: 1294208440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 57
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a8d86bf69d74a4e90e3d39aa3c31c2
+      internalID: -861534736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullWolf Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73227b133b5ad2b468317f58e503f9a3
+      internalID: 271719384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SkullWolf Sprite Sheet_0: -2108596556
+      SkullWolf Sprite Sheet_1: -717405610
+      SkullWolf Sprite Sheet_10: -1752886119
+      SkullWolf Sprite Sheet_11: -925488696
+      SkullWolf Sprite Sheet_12: 1746211123
+      SkullWolf Sprite Sheet_13: 2124544839
+      SkullWolf Sprite Sheet_14: 102669182
+      SkullWolf Sprite Sheet_15: 1200972887
+      SkullWolf Sprite Sheet_16: 1564013970
+      SkullWolf Sprite Sheet_17: 1189430970
+      SkullWolf Sprite Sheet_18: 1134334190
+      SkullWolf Sprite Sheet_19: 2071668022
+      SkullWolf Sprite Sheet_2: 1667904618
+      SkullWolf Sprite Sheet_20: 1784700363
+      SkullWolf Sprite Sheet_21: 969650229
+      SkullWolf Sprite Sheet_22: 217017694
+      SkullWolf Sprite Sheet_23: 1294208440
+      SkullWolf Sprite Sheet_24: -861534736
+      SkullWolf Sprite Sheet_25: -334167591
+      SkullWolf Sprite Sheet_26: 524460407
+      SkullWolf Sprite Sheet_27: -367583248
+      SkullWolf Sprite Sheet_28: 743478140
+      SkullWolf Sprite Sheet_29: -125900667
+      SkullWolf Sprite Sheet_3: 587296154
+      SkullWolf Sprite Sheet_30: 271719384
+      SkullWolf Sprite Sheet_31: 875888135
+      SkullWolf Sprite Sheet_4: 13171981
+      SkullWolf Sprite Sheet_5: -1121377028
+      SkullWolf Sprite Sheet_6: -792529830
+      SkullWolf Sprite Sheet_7: -473357938
+      SkullWolf Sprite Sheet_8: 763289626
+      SkullWolf Sprite Sheet_9: 1177556861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
